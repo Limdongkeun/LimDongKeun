@@ -2,10 +2,10 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=LimDongKeun%20Github!&fontSize=70" />	
 </div>
 <div align=left>
-	  <h2>📚 소개 📚</h2>
-    <h3>책임감이 강하고 겸손한 성격 입니다.</h3>
-    <h3>과제 수행시 소통을 중요시 생각 합니다.</h3>
-    <h3>한 번 시작하면 꾸준하게 성장하기 위해 노력합니다.</h3>
+	  <h2>🙋‍♂️  소개  </h2>
+    <h3>😎 책임감이 강하고 겸손한 성격 입니다.</h3>
+    <h3>💻 과제 수행시 소통을 중요시 생각 합니다.</h3>
+    <h3>👋 한 번 시작하면 꾸준하게 성장하기 위해 노력합니다.</h3>
 </div>
 <br>
 <div align=left>
